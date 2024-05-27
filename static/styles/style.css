@@ -1,0 +1,10 @@
+p{
+    font-size: 24px;
+    background-color: rgb(56, 206, 56);
+}
+
+.container{
+    text-align: center;
+    background-color: rgb(124, 122, 122);
+    display: inline-block;
+}
